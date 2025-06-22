@@ -13,7 +13,7 @@ A clean and minimal personal portfolio website built using ReactJS. This project
 - Built using React functional components and basic routing  
 - Customizable content and structure for personal use
 
----
+--- 
 
 ## ⚙️ Tech Stack
 
